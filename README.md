@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date:02-12-2024
+# Date:16-12-2024
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -171,6 +171,10 @@ tata.html
 # OUTPUT
 ![Screenshot 2024-12-02 134035](https://github.com/user-attachments/assets/4ae2ffbb-390c-49f3-b63c-dcabdcec7670)
 ![Screenshot 2024-12-02 151327](https://github.com/user-attachments/assets/1c9e8ff4-45cd-41ec-8699-28ecd6e7cc1c)
+![Screenshot 2024-12-16 102837](https://github.com/user-attachments/assets/2cf8d69e-a0f8-470d-b858-70853eba632a)
+![Screenshot 2024-12-16 102853](https://github.com/user-attachments/assets/32c250c0-81ef-45a7-9504-04ef3a49337e)
+![Screenshot 2024-12-16 102910](https://github.com/user-attachments/assets/1e24addf-9155-4d89-b59b-a1629653ee57)
+![Screenshot 2024-12-16 102937](https://github.com/user-attachments/assets/141bbe16-250d-427b-933c-a9c7ae63788a)
 
 
 # RESULT
